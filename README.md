@@ -17,4 +17,5 @@ $(function(){
 + Better control over positioning
 + Loading via data-*
 + Reduction of markup
++ Experimental support for -*-filter
 + and more stuff...
